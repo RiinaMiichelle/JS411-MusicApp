@@ -1,0 +1,21 @@
+#header {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 60px;
+  margin-left: 40px;
+}
+
+#notificationsHeader {
+  font-size: 30px;
+  align-self: center;
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+
+#notifications {
+  font-size: 20px;
+  align-self: center;
+  margin-top: 20px;
+  margin-left: 40px;
+}
